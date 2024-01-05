@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 pytest-playwright = "*"
 allure-pytest = "*"
+faker = "*"
 
 [dev-packages]
 
